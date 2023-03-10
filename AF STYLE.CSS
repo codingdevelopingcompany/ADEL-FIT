@@ -46,7 +46,7 @@ header nav a {
     color: white;
 }
 #hero button {
-    background-color: #333;
+    background-color:wheat;
     color:aliceblue;
     padding: 0.5rem 1rem;
     border: none;
@@ -171,10 +171,12 @@ hr{
     position: relative;
 }
 #services{
+    display: block;
     position: relative;
     bottom: 490px;
 }
 #transformations{
+    display: block;
    position:relative ;
    bottom: 1600px;
 }
