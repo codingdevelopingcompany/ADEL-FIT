@@ -172,11 +172,11 @@ hr{
 }
 #services{
     position: relative;
-    bottom: 400px;
+    bottom: 450px;
 }
 #transformations{
    position:relative ;
-   bottom: 500px;
+   bottom: 1000px;
 }
 .Cntact{
     position: relative;
@@ -184,7 +184,7 @@ hr{
 }
 .c{
     position: relative;
-    bottom: 400px;
+    bottom: 1400px;
 }
 .offer{
     position: ;
